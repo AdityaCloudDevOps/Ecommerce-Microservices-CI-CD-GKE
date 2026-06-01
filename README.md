@@ -141,7 +141,7 @@ kubectl get deployments
 * GKE Cluster Administration
 * Microservices Deployment
 * Load Balancer Exposure
-* Cloud Native Application Hosting
+* Cloud Native Application Hosting.
 
 ---
 
