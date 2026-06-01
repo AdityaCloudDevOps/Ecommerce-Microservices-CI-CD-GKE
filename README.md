@@ -111,27 +111,27 @@ kubectl get deployments
 
 ## Architecture
 
-![Architecture Diagram](screenshots/architecture-diagram.png)
+![Architecture Diagram](Screenshots/architecture-diagram.png)
 
 ## GKE Cluster
 
-![Cluster](screenshots/gke-cluster.png)
+![Cluster](Screenshots/gke-cluster.png)
 
 ## Deployments
 
-![Deployments](screenshots/deployments.png)
+![Deployments](Screenshots/deployments.png)
 
 ## Pods
 
-![Pods](screenshots/pods.png)
+![Pods](Screenshots/pods.png)
 
 ## Services
 
-![Services](screenshots/services.png)
+![Services](Screenshots/services.png)
 
 ## Application UI
 
-![Application](screenshots/application-ui.png)
+![Application](Screenshots/application-ui.png)
 
 ## 🎯 Key Learnings
 
@@ -141,7 +141,7 @@ kubectl get deployments
 * GKE Cluster Administration
 * Microservices Deployment
 * Load Balancer Exposure
-* Cloud Native Application Hosting.
+* Cloud Native Application Hosting
 
 ---
 
