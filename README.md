@@ -149,4 +149,4 @@ kubectl get deployments
 
 Aditya Yadav
 
-Cloud & DevOps Enthusiast
+Cloud & DevOps Enthusiast.
